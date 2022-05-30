@@ -170,38 +170,11 @@ export const projects: IProject[] = [
   {
     name: "Headless Blog",
     image_path: "/images/af.png",
-    deployed_url: "https://graphcms-blog-rqpedia.vercel.app/",
+    deployed_url: "https://graphcms-blog-neon.vercel.app/",
     github_url: "https://github.com/rqpedia/blog",
     category: ["WordPress","NodeJs"],
     description: "The first Headless Blog website I created using GraphCMS, NextJs, and TailwindCSS",
     key_techs: ["GraphCMS", "NextJs", "TailwindCSS", "Sass",],
   },
 
-  /*{
-    name: "YouTube using YouTube ",
-    image_path: "/images/youtubeClone.png",
-    deployed_url: "https://not-utube.web.app/",
-    github_url: "https://github.com/Dey-Sumit/youtube-clone-tutorial-up",
-    category: ["WordPress"],
-    description:
-      'Full(almost) Functional YouTube replica where one can login with his/her youtube account to enjoy "not-YouTube".User can like a video,comment on a video & Much More ',
-    key_techs: [
-      "React",
-      "Redux",
-      "Firebase Auth",
-      "YouTube API",
-      "Sass",
-      "Bootstrap",
-    ],
-  },
-  {
-    name: "Football App",
-    image_path: "/images/football.png",
-    deployed_url: "https://o-my-goal.web.app/",
-    github_url: "https://github.com/Dey-Sumit/football-app",
-    category: ["WordPress"],
-    description:
-      "o my goal replica where an user can keep an eye on his favorite club.This app will keep providing \n all the statistics of that club.all the fans can also chat ",
-    key_techs: ["React", "Redux", "Firebase Auth", "API", "Sass", "Bootstrap"],
-  },*/
 ];
