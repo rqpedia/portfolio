@@ -26,7 +26,7 @@ export const services: Service[] = [
       "I can create a website of any type using  <b>Wordpress</b> ",
   },
   {
-    Icon: MdDeveloperMode,
+    Icon: Faseo,
     title: "Search Engine Optimization",
     about: "I usually make articles and be on the first page <b>Google</b>  and <b>other Search Engine</b> ",
   },
