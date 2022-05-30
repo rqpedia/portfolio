@@ -14,7 +14,8 @@ const Bar: FunctionComponent<{ value: Skill }> = ({
           width: bar_width,
         }}
       >
-        <Icon className="mr-3" /> {name}
+        <Icon className="mr-3" />
+        {name}
       </div>
     </div>
   );

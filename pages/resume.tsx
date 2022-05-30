@@ -10,20 +10,23 @@ const Resume = () => {
           <h5 className="my-3 text-2xl font-bold">Education</h5>
           <div className="">
             <h5 className="my-2 text-xl font-bold">
-              Computer Science Engineering
+              Technical Information
             </h5>
-            <p className="font-semibold">Academy of Technology (2017-2021)</p>
+            <p className="font-semibold">Technical Information (2017-Now)</p>
             <p className="my-3">
-              I am currently pursuing B.tech in Computer Science Engineering
-              from Academy of Technology
+              I am currently pursuing my S.Kom degree at the University of Muhammadiyah Bengkulu.
             </p>
           </div>
         </div>
         <div>
-          <h5 className="my-3 text-2xl font-bold">Experience</h5>
+          <h5 className="my-3 text-2xl font-bold">
+            Experience
+          </h5>
           <div className="">
-            <h5 className="my-2 text-xl font-bold">Software Developer Jr.</h5>
-            <p className="font-semibold">Tata Consultancy Services</p>
+            <h5 className="my-2 text-xl font-bold">
+              Website Developer.
+            </h5>
+            <p className="font-semibold">Website Development Services & Website Wedding Invitations</p>
             <p className="my-3">I don't know why I am doing this job</p>
           </div>
         </div>
