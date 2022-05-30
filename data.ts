@@ -45,12 +45,6 @@ export const services: Service[] = [
 ];
 
 export const languages: Skill[] = [
-  /*{
-    Icon: BsCircleFill,
-    name: "Python",
-    level: "45",
-  },*/
-  
   {
     Icon: BsCircleFill,
     name: "Java Script",
@@ -61,31 +55,25 @@ export const languages: Skill[] = [
     name: "HTML & CSS",
     level: "70",
   },
-  /*{
-    Icon: BsCircleFill,
-    name: "React Native",
-    level: "80",
-  },*/
+  
   {
     Icon: BsCircleFill,
     name: "Wordpress",
     level: "80",
   },
+  
   {
     Icon: BsCircleFill,
     name: "React",
     level: "70",
   },
-  /*{
-    Icon: BsCircleFill,
-    name: "Django",
-    level: "80",
-  },*/
+  
   {
     Icon: BsCircleFill,
     name: "Tailwindcss",
     level: "60",
   },
+  
   {
     Icon: BsCircleFill,
     name: "Bootstrap",
@@ -117,16 +105,7 @@ export const tools: Skill[] = [
 ];
 
 export const projects: IProject[] = [
-  /*{ 
-    name: "COVID Tracker",
-    description:
-      "This app shows a statistical view about corona virus over the world",
-    image_path: "/images/covid.jpg",
-    deployed_url: "https://covid-19-tracker-by-sumit.web.app/",
-    github_url: "https://github.com/Dey-Sumit/covid-19-tracker",
-    category: ["react"],
-    key_techs: ["React", "Chart.js", "Material UI"],
-  },*/
+  
   {
     name: "Wedding Invitation",
     image_path: "/images/ab.png",
@@ -172,7 +151,7 @@ export const projects: IProject[] = [
     image_path: "/images/af.png",
     deployed_url: "https://graphcms-blog-neon.vercel.app/",
     github_url: "https://github.com/rqpedia/blog",
-    category: ["WordPress","NodeJs"],
+    category: ["NodeJs"],
     description: "The first Headless Blog website I created using GraphCMS, NextJs, and TailwindCSS",
     key_techs: ["GraphCMS", "NextJs", "TailwindCSS", "Sass",],
   },
